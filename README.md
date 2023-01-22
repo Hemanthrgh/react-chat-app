@@ -74,7 +74,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 2). Email: String(user) @ String(host) .com **example:hemanth@gmail.com**.\
 3). Password: it require 6 Degit **example:abc123**.\
 4). Profile pic: Image for a profile image.\
-**Note: all are required for sign up**
-![Screenshot from 2023-01-22 22-03-51](https://user-images.githubusercontent.com/111546458/213927398-10b715d0-efdc-4729-9391-686f508be841.png)
+**Note: all are required for sign up**\
+**![Screenshot from 2023-01-22 22-03-51](https://user-images.githubusercontent.com/111546458/213927398-10b715d0-efdc-4729-9391-686f508be841.png)**\
+
+### `Sing In`
+**![Screenshot from 2023-01-22 22-06-44](https://user-images.githubusercontent.com/111546458/213927554-196e52ba-6d02-4e2d-8324-255c0e608de2.png)**\
+
+### `Home Page`
+**![image](https://user-images.githubusercontent.com/111546458/213927641-5d18fc78-a1bd-40f1-ada0-4310e21b2192.png)**/
+
 
 
