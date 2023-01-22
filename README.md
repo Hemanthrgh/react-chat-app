@@ -69,10 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-###For singn up 
+### `For singn up`
 1). Display Name: It require Name as String it displays in the app.
 2). Email: String(user) @ String(host) .com exmple:hemanth@gmail.com.
 3). Password: it require 6 Degit.
 4). Profile pic: Image for a profile image.
-Note: all are required for sign up
+**Note: all are required for sign up**
 
