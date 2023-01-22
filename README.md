@@ -71,8 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `For singn up`
 1). Display Name: It require Name as String it displays in the app.\
-2). Email: String(user) @ String(host) .com exmple:hemanth@gmail.com.\
-3). Password: it require 6 Degit.\
+2). Email: String(user) @ String(host) .com **example:hemanth@gmail.com**.\
+3). Password: it require 6 Degit **example:abc123**.\
 4). Profile pic: Image for a profile image.\
 **Note: all are required for sign up**
 
