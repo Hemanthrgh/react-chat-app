@@ -1,73 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### `For singn up`
 1). Display Name: It require Name as String it displays in the app.\
@@ -81,7 +11,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 **![Screenshot from 2023-01-22 22-06-44](https://user-images.githubusercontent.com/111546458/213927554-196e52ba-6d02-4e2d-8324-255c0e608de2.png)**\
 
 ### `Home Page`
-**![image](https://user-images.githubusercontent.com/111546458/213927641-5d18fc78-a1bd-40f1-ada0-4310e21b2192.png)**/
+**![image](https://user-images.githubusercontent.com/111546458/213927641-5d18fc78-a1bd-40f1-ada0-4310e21b2192.png)**\
+
+### `Search user and add user to chats area for Chat`
+1). Enter user Exact Name in search box.\
+![Screenshot from 2023-01-27 14-05-40](https://user-images.githubusercontent.com/111546458/215043515-d43da0df-4d7a-4367-b68a-886c939fe8ce.png)\
+2). Click on Enter button in key bord to see search result.\
+![Screenshot from 2023-01-27 14-09-35](https://user-images.githubusercontent.com/111546458/215043750-d2ce296e-b08b-471e-a2fd-c3b454c4c8d4.png)\
+3). Click on user to add a user to Chat area.\
+![Screenshot from 2023-01-27 14-11-08](https://user-images.githubusercontent.com/111546458/215044007-7608ee09-8b50-46dc-853f-c1d4a2a036f4.png)\
+4). Click on user in Chats area to chat with him.\
+![Screenshot from 2023-01-27 14-12-07](https://user-images.githubusercontent.com/111546458/215044198-a1e50c84-92a7-48b4-8652-7d923e9cc765.png)\
 
 
 
